@@ -387,6 +387,7 @@ const contextTypes = {
 };
 
 const defaultProps = {
+  drawerImage: _drawerImage,
   backButtonImage: _backButtonImage,
   titleOpacity: 1,
 };
